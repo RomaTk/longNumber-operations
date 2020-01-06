@@ -34,7 +34,7 @@ from .multiplication import multiplication as multiply
 from .division import divide
 
 """
-	divide return float with some signs after dot of division of two numbers
+	divideAsFloats return float with some signs after dot of division of two numbers
 	The third parametr of maximum possible numbers after dot is the third
 """
 from .division import divideAsFloats
