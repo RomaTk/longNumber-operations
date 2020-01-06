@@ -11,14 +11,13 @@ More is taken from __init__.py , but if you did not catch the idia every functio
 
 
 __init__.py
-------------------------------------------------------------------
--                                                                -
--  Each of this functions get 2 strings which represent strings  -----------------------------------------------------------------------------------------------------------
--  And return result or it will be raised an error               -                                                                                                         -
--  All inputed data is checked so it should not be any problems  - Special: numbers should be as integer or float without any exponent it can have + or - in the beginning.-
-------------------------------------------------------------------          Not more than one dot. Other symbols is numerals                                               -
-                                                                 -                                                                                                         -
-                                                                 -----------------------------------------------------------------------------------------------------------
+-
+-  Each of this functions get 2 strings which represent strings
+-  And return result or it will be raised an error
+-  All inputed data is checked so it should not be any problem
+-   Special: numbers should be as integer or float without any exponent it can have + or - in the beginning.
+-            Not more than one dot. Other symbols is numerals
+
 
 """
 	Compare function return strings:
